@@ -5,9 +5,10 @@
 <a href="https://suminig.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&&logoColor=white"/></a>
 <a href="https://github.com/Suminig" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/sumi9n7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+</div>
 
-
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suminig)](https://solved.ac/suminig)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suminig&show_icons=true&theme=radical)
-</div>
+
