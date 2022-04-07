@@ -25,7 +25,8 @@
 
 <div align="center">   
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suminig)](https://solved.ac/suminig)
+### :heavy_check_mark: My Progress :heavy_check_mark:<br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suminig)](https://solved.ac/suminig)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suminig&show_icons=true&theme=radical)
 
 </div>
