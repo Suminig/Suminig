@@ -26,7 +26,9 @@
 <div align="center">   
   
 ### :heavy_check_mark: My Progress :heavy_check_mark:<br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suminig)](https://solved.ac/suminig)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suminig)](https://solved.ac/suminig) &nbsp;
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=suminig&theme=warm)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suminig)](https://github.com/Suminig/github-readme-stats)&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suminig&show_icons=true&theme=radical)
 
 </div>
