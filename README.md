@@ -9,7 +9,7 @@
 ### :sparkles: Follow me on &nbsp; <a href="https://suminig.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&&logoColor=white"/></a>&nbsp;<a href="https://github.com/Suminig" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;<a href="https://www.instagram.com/sumi9n7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;<a href="https://www.facebook.com/profile.php?id=100003366054111" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 
   
-### :e-mail: Contact Me &nbsp; [qwemnbv98@outlook.com](mailto:qwemnbv98@outlook.com)
+### :e-mail: [Contact Me](mailto:qwemnbv98@outlook.com)
  
   
 ### :heavy_check_mark: My Progress :heavy_check_mark:<br><br>
