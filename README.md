@@ -13,7 +13,7 @@
  :e-mail: [Contact Me](mailto:qwemnbv98@outlook.com) | 📄 [About Me](https://career.programmers.co.kr/pr/qwemnbv98_5665)
  
   
- :heavy_check_mark: My Progress <br><br>
+ 🏴 My Progress <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suminig)](https://solved.ac/suminig) &nbsp;
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=suminig&theme=warm)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suminig&theme=tokyonight)](https://github.com/Suminig/github-readme-stats)&nbsp;
