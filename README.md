@@ -7,6 +7,8 @@
  
 ✏️ I'm Learning & Using : &nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)&nbsp;![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)&nbsp;![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)&nbsp;![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
 
+⌨️ I am interested in Back-end Programming :) 
+
  :sparkles: Follow me on : &nbsp; <a href="https://suminig.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&&logoColor=white"/></a>&nbsp;<a href="https://github.com/Suminig" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;<a href="https://www.instagram.com/sumi9n7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;<a href="https://www.facebook.com/profile.php?id=100003366054111" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 
   
@@ -17,5 +19,6 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=suminig&theme=warm)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suminig&theme=tokyonight)](https://github.com/Suminig/github-readme-stats)&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suminig&show_icons=true&theme=tokyonight)<br>
+
 
 
