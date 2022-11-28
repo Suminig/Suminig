@@ -19,4 +19,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suminig)](https://solved.ac/suminig)
 
  :bulb: My Thoughts <br><br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suminig&color=dark)](https://velog.io/@suminig/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suminig&color=dark)](https://velog.io/@suminig)
