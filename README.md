@@ -18,5 +18,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suminig&show_icons=true&theme=tokyonight) &nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suminig)](https://solved.ac/suminig)
 
- :bulb: My Thoughts <br><br>
+ :bulb: My Blogs <br><br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suminig&color=dark)](https://velog.io/@suminig)
